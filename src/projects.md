@@ -26,7 +26,7 @@ Important optimizations include caching previous calculations from the search, n
 
 ## [Julia Benchmarks][3] (Julia)
 
-[3]: https://github.com/JuliaLang/julia/tree/master/test/perf/shootout
+[3]: https://benchmarksgame-team.pages.debian.net/benchmarksgame/measurements/julia.html
 
 Julia is a language for doing scientific computing so it is important that Julia is fast. David wrote several of the [benchmarks game][8] benchmarks to show how Julia compares with other languages and to help prevent performance regressions.
 
