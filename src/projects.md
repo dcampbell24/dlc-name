@@ -44,7 +44,7 @@ Although, the partitioning logic is not perfect, David gained valuable experienc
 
 Sadly, the application was not endorsed by the core developers for inclusion on the installation media because it depended on Python, but it is still usable with a custom installer.
 
-[Github][5] [LinkedIn][6]
+[Github][5] | [LinkedIn][6] | <a rel="me" href="https://noc.social/@dlc">Mastodon</a>
 
 [5]: https://github.com/dcampbell24
 [6]: https://www.linkedin.com/in/david-campbell-b13ab8b2/

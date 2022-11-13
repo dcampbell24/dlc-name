@@ -59,7 +59,7 @@ Most recently, he has been contributing to the user applications in [Redox OS][1
 [17]: https://crates.io/crates/ion-shell
 [18]: https://github.com/redox-os/games/blob/master/src/baduk/main.rs
 
-[Github][19] [LinkedIn][20]
+[Github][19] | [LinkedIn][20] | <a rel="me" href="https://noc.social/@dlc">Mastodon</a>
 
 [19]: https://github.com/dcampbell24
 [20]: https://www.linkedin.com/in/david-campbell-b13ab8b2/S
