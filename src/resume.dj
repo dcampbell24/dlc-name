@@ -72,7 +72,7 @@ Do so acting as a software engineer, writer, organizer, and leader.
 :::
 
 * Contributed benchmarks, bug reports, and documentation to Julia
-* Wrote cube puzzle solver (3D space filling) and visualization tools
+* [Wrote cube puzzle solver](https://github.com/dcampbell24/cubes) (3D space filling) and visualization tools
 * Created Python bindings for pysvmlight machine learning library
 
 {style="text-align: left"}
