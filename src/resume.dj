@@ -91,8 +91,8 @@ Do so acting as a software engineer, writer, organizer, and leader.
 [2009-Present]{style="float: right"}
 :::
 
-* Financial accounts tracking software (2024)
-* Created weather tracking software with Prometheus (2024)
+* [Financial accounts](https://github.com/dcampbell24/financial-accounts) tracking software (2024)
+* Created [weather tracking software](https://github.com/dcampbell24/prometheus-sensors) with Prometheus (2024)
 * Added shell history features to ion the Redox OS shell
 * Wrote TUI GO game for Redox Games
 * Wrote Hearts server and GUI client, contributed to the Conrod GUI library
