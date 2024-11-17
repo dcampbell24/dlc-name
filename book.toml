@@ -1,6 +1,12 @@
 [book]
-authors = ["David L. Campbell"]
+authors = ["David Lawrence Campbell"]
 language = "en"
 multilingual = false
 src = "src"
 title = "David Lawrence Campbell"
+
+[output.html]
+git-repository-url = "https://github.com/dcampbell24"
+additional-css = ["custom.css"]
+
+[preprocessor.djot]

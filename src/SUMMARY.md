@@ -1,4 +1,4 @@
 # Summary
 
-- [Biography](./biography.md)
-- [Projects](./projects.md)
+- [Biography](./biography.dj)
+- [Projects](./projects.dj)
