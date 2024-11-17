@@ -1,0 +1,120 @@
+:::::: row
+::: column
+# David Campbell
+
+*Profession*: Software Engineer\
+*Location*: South Portland, ME, USA\
+*Email*: <dcampbell24@gmail.com>\
+[Github](https://github.com/dcampbell24/) |
+[LinkedIn](https://www.linkedin.com/in/david-campbell-b13ab8b2/S) |
+`<a rel="me" href="https://noc.social/@dlc">Mastodon</a>`{=html}
+
+:::
+::: column
+![DLC Headshot][1]
+
+[1]: dlc_headshot_250px.png
+:::
+::::::
+
+## Objective
+
+Research and build systems that improve quality of life, create community, and sustain themselves.
+Do so acting as a software engineer, writer, organizer, and leader.
+
+## Computer Skills
+
+*Used Professionally*: Bash, fish, JavaScript, PHP, Python\
+*Learned Independently*: C, Clojure, Fortran, Julia, LISP, OCaml, Rust\
+*Software*: Apache, ArcGIS, Discourse, Git, LaTeX, MySQL, PostgreSQL, Visual Studio Code\
+*Operating Systems*: Windows, OSX, Linux: Arch, Ubuntu, Debian
+
+## Experience
+
+{style="text-align: left"}
+:::
+*Business Process Developer* -- Stone Coast Fund Services, Portland, ME
+[Nov 2017-Dec 2021]{style="float: right"}
+:::
+
+* Translated client requirements into functional application features
+* Created prototypes of applications
+* Used graphical software in application creation
+* Performed testing of applications after completing them
+
+{style="text-align: left"}
+:::
+*Software Engineer* -- CashStar Inc., Portland, ME
+[May 2015-Jan 2017]{style="float: right"}
+:::
+
+* Learned company needs and icreased revenue by setting up customers with many company products
+* Reduced setup times and offloaded engineer work by creating GUIs and configuration endpoints
+* Wrote system documentation to reduce training time for new hires
+
+{style="text-align: left"}
+:::
+*Developer* -- Photoshelter Inc., New York, NY
+[Jan 2013-May 2014]{style="float: right"}
+:::
+
+* Improved clients' SEO by fixing longstanding sitemap generation and submission issues
+* Uncovered several bugs and improved site reliability with HHVM static analysis
+* Increasded scalability, reduced time and latency of image exports
+* Added real time image export reporting to reduce issue resolution time
+* Extended and improved handling of image meta-data for better page displays
+* Improved seller experience with Stripe Connect integration
+
+{style="text-align: left"}
+:::
+*Student* -- Recurse Center, New York, NY
+[Summer 2012]{style="float: right"}
+:::
+
+* Contributed benchmarks, bug reports, and documentation to Julia
+* Wrote cube puzzle solver (3D space filling) and visualization tools
+* Created Python bindings for pysvmlight machine learning library
+
+{style="text-align: left"}
+:::
+*Volunteer* -- Poverty's Demise, Brooklyn, N
+[July-Nov. 2009]{style="float: right"}
+:::
+
+* Setup and maintained hardware, webserver (LAMP), Drupal installations
+* Copyedited business reports, public correspondance, technical documentation
+* Wrote project development plan, press material, internal documentation, reports
+
+{style="text-align: left"}
+:::
+*Indepedent Projects* -- Various Locations
+[2009-Present]{style="float: right"}
+:::
+
+* Financial accounts tracking software (2024)
+* Created weather tracking software with Prometheus (2024)
+* Added shell history features to ion the Redox OS shell
+* Wrote TUI GO game for Redox Games
+* Wrote Hearts server and GUI client, contributed to the Conrod GUI library
+* Contributed to Arch Linux, pkgtools (gem2arch), namcap, many PKGBUILDs
+* Wrote a library and agents for playing Texas Hold'em
+* Wrote cparted and contributed to PyParted, disk partioning in Anaconda from RedHat
+
+## Education
+
+{style="text-align: left"}
+:::
+*Graduate Studies* -- Computer Science, GPA: 3.41, 30 credits
+[Spring 2010-Spring 2013]{style="float: right"}
+:::
+
+CUNY Brooklyn College, Brooklyn, NY
+
+{style="text-align: left"}
+:::
+*Bachelor of Arts* -- Liberal Studies, GPA: 3.15
+{% 23 %}[May 2009]{style="float: right"}
+:::
+
+University of New Haven, West Haven, CT\
+John Collinson Philosophy Award recipient

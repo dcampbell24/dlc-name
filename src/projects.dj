@@ -45,7 +45,3 @@ Although, the partitioning logic is not perfect, David gained valuable experienc
 [9]: https://www.gnu.org/software/ncurses/
 
 Sadly, the application was not endorsed by the core developers for inclusion on the installation media because it depended on Python, but it is still usable with a custom installer.
-
-[LinkedIn][6] | `<a rel="me" href="https://noc.social/@dlc">Mastodon</a>`{=html}
-
-[6]: https://www.linkedin.com/in/david-campbell-b13ab8b2/

@@ -1,18 +1,5 @@
 # Biography
 
-:::::: row
-::: column
-*Profession*: Software Engineer\
-*Location*: Portland, ME, USA\
-*Email*: <dcampbell24@gmail.com>
-:::
-::: column
-![DLC Headshot][1]
-
-[1]: dlc_headshot_250px.png
-:::
-::::::
-
 David is a software engineer passionate about open source software and exploring games, whose passions were sparked by an adventure into the world of Linux and strategic battles with friends over card tables, basement floors, and sidewalks.
 
 He studied Computer Science at [Brooklyn College][2], and has worked as a software engineer at [PhotoShelter][3] and [CashStar][4]. He also spent a Summer at The [Recurse Center][5].
@@ -46,6 +33,3 @@ Most recently, he has been contributing to the user applications in [Redox OS][1
 [17]: https://crates.io/crates/ion-shell
 [18]: https://github.com/redox-os/games/blob/master/src/baduk/main.rs
 
-[LinkedIn][20] | `<a rel="me" href="https://noc.social/@dlc">Mastodon</a>`{=html}
-
-[20]: https://www.linkedin.com/in/david-campbell-b13ab8b2/S
