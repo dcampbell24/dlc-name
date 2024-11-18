@@ -1,3 +1,7 @@
+span.email strong {
+  display: none;
+}
+
 .row {
   display: flex;
 }
