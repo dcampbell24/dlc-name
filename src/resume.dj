@@ -97,10 +97,11 @@ Do so acting as a software engineer, writer, organizer, and leader.
 * Wrote Hearts server and GUI client, contributed to the Conrod GUI library
 * Contributed to Arch Linux, pkgtools (gem2arch), namcap, many PKGBUILDs
 * Wrote a [library](https://github.com/dcampbell24/poker) and agents for playing Texas Hold'em
-* Wrote [cparted](https://github.com/dcampbell24/cparted) and contributed to PyParted, disk partioning in Anaconda from RedHat
+* Wrote [cparted](https://github.com/dcampbell24/cparted) and contributed to [PyParted][4], disk partioning in Anaconda from RedHat
 
-[2]: https://doc.redox-os.org/book/trying-out-redox.html#terminal-games-written-in-rust
+[2]: https://gitlab.redox-os.org/redox-os/games/-/commits/master/src/baduk/main.rs?ref_type=heads
 [3]: https://github.com/dcampbell24/libgo
+[4]: https://github.com/rhinstaller/pyparted
 
 ## Education
 
