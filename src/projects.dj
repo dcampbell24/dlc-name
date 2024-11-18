@@ -1,6 +1,6 @@
-# Projects
+## Projects
 
-## [Poker][1] (Go)
+### [Poker][1] (Go)
 
 [1]: https://github.com/dcampbell24/poker
 
@@ -10,7 +10,7 @@ The current Poker project takes some inspiration from the previous project, but 
 
 Some highlights of the current design include the ability to easily add support for protocols other than ACPC, so that the agent can interact with non-ACPC poker servers, and support for generating game trees that can be used to do more sophisticated expected value calculations.
 
-## [Cubes][2] (Bash, C, Fortran, Go, Julia, Python, Tcl)
+### [Cubes][2] (Bash, C, Fortran, Go, Julia, Python, Tcl)
 
 [2]: https://github.com/dcampbell24/cubes
 
@@ -26,7 +26,7 @@ He discovered that, although, in general the space packing problem is hard to so
 
 Important optimizations include caching previous calculations from the search, not looking at rotations of the first piece, trying to place the pieces from hardest to easiest, and using flood fill to find regions that can't possibly be filled.
 
-## [Julia Benchmarks][3] (Julia)
+### [Julia Benchmarks][3] (Julia)
 
 [3]: https://benchmarksgame-team.pages.debian.net/benchmarksgame/measurements/julia.html
 
@@ -34,7 +34,7 @@ Julia is a language for doing scientific computing so it is important that Julia
 
 [8]: http://benchmarksgame.alioth.debian.org/
 
-## [cparted][4] (Python)
+### [cparted][4] (Python)
 
 [4]: https://github.com/dcampbell24/cparted
 
