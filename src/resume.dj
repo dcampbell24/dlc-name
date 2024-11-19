@@ -99,7 +99,7 @@ Do so acting as a software engineer, writer, organizer, and leader.
 * Wrote a [library](https://github.com/dcampbell24/poker) and agents for playing Texas Hold'em
 * Wrote [cparted](https://github.com/dcampbell24/cparted) and contributed to [PyParted][4], disk partioning in Anaconda from RedHat
 
-[2]: https://gitlab.redox-os.org/redox-os/games/-/commits/master/src/baduk/main.rs?ref_type=heads
+[2]: https://gitlab.redox-os.org/redox-os/games/-/commits/master/src/baduk/main.rs
 [3]: https://github.com/dcampbell24/libgo
 [4]: https://github.com/rhinstaller/pyparted
 [5]: https://github.com/PistonDevelopers/conrod/commits/master/?author=dcampbell24
