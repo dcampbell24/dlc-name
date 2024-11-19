@@ -30,5 +30,5 @@ More recently, he has been contributing to the user applications in [Redox OS][1
 
 [15]: https://www.redox-os.org/
 [16]: https://crates.io/crates/libgo
-[17]: https://gitlab.redox-os.org/redox-os/ion/-/commits/master?ref_type=heads?search=dcampbell24
-[18]: https://gitlab.redox-os.org/redox-os/games/-/commits/master/src/baduk/main.rs?ref_type=heads
+[17]: https://gitlab.redox-os.org/redox-os/ion/-/commits/master?search=dcampbell24
+[18]: https://gitlab.redox-os.org/redox-os/games/-/commits/master/src/baduk/main.rs
