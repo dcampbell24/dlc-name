@@ -94,7 +94,7 @@ Do so acting as a software engineer, writer, organizer, and leader.
 * Created [weather tracking software](https://github.com/dcampbell24/prometheus-sensors) with Prometheus (2024)
 * Added shell history features to ion the Redox OS shell
 * Wrote [TUI][2] [GO][3] game for Redox Games
-* Wrote Hearts server and GUI client, contributed to the Conrod GUI library
+* Wrote Hearts server and GUI client, contributed to the [Conrod GUI library][5]
 * Contributed to Arch Linux, pkgtools (gem2arch), namcap, many PKGBUILDs
 * Wrote a [library](https://github.com/dcampbell24/poker) and agents for playing Texas Hold'em
 * Wrote [cparted](https://github.com/dcampbell24/cparted) and contributed to [PyParted][4], disk partioning in Anaconda from RedHat
@@ -102,6 +102,7 @@ Do so acting as a software engineer, writer, organizer, and leader.
 [2]: https://gitlab.redox-os.org/redox-os/games/-/commits/master/src/baduk/main.rs?ref_type=heads
 [3]: https://github.com/dcampbell24/libgo
 [4]: https://github.com/rhinstaller/pyparted
+[5]: https://github.com/PistonDevelopers/conrod/commits/master/?author=dcampbell24
 
 ## Education
 
